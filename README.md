@@ -21,7 +21,6 @@
 ### 🧠 About
 - Bug bounty hunter focused on web security  
 - Python developer building security and automation tools  
-- I like things minimal, fast, and to the point  
 
 ### 📊 GitHub Stats
 <p align="center">

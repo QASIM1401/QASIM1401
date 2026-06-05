@@ -72,18 +72,6 @@ motto: "In code we trust, in bugs we hunt."
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FRAMEWORKS_%26_LIBRARIES-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /><br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Requests-0d0d0d?style=for-the-badge&logo=python&logoColor=00ffe7" />
-  <img src="https://img.shields.io/badge/Scapy-0d0d0d?style=for-the-badge&logo=python&logoColor=ff007f" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
 ---
 
 ## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/snake.svg" width="32" align="center" /> `> CONTRIBUTION SNAKE`

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="skullGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 4 C18 4 8 14 8 28 C8 36 12 42 16 46 L16 54 C16 56 18 58 20 58 L24 58 L24 52 L28 52 L28 58 L36 58 L36 52 L40 52 L40 58 L44 58 C46 58 48 56 48 54 L48 46 C52 42 56 36 56 28 C56 14 46 4 32 4 Z"
+        fill="url(#skullGrad)" stroke="#0d0d0d" stroke-width="1.5"/>
+  <ellipse cx="22" cy="28" rx="6" ry="7" fill="#0d0d0d"/>
+  <ellipse cx="42" cy="28" rx="6" ry="7" fill="#0d0d0d"/>
+  <path d="M30 32 L34 32 L34 38 L30 38 Z" fill="#0d0d0d"/>
+  <path d="M28 44 L30 48 M32 44 L32 48 M34 44 L36 48" stroke="#0d0d0d" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

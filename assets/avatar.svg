@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffe7"/>
+      <stop offset="50%" stop-color="#ff007f"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0d0d0d"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="200" fill="url(#bgGrad)"/>
+  <circle cx="100" cy="100" r="90" fill="none" stroke="url(#ringGrad)" stroke-width="3"/>
+  <circle cx="100" cy="100" r="70" fill="none" stroke="url(#ringGrad)" stroke-width="1" stroke-dasharray="4 4"/>
+  <text x="100" y="95" text-anchor="middle" fill="#00ffe7" font-family="monospace" font-size="22" font-weight="bold">QASIM</text>
+  <text x="100" y="118" text-anchor="middle" fill="#ff007f" font-family="monospace" font-size="10">1401</text>
+  <text x="100" y="145" text-anchor="middle" fill="#9d00ff" font-family="monospace" font-size="8">ETHICAL HACKER</text>
+</svg>

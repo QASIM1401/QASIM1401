@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="wrenchGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffe7"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M44 4 C36 4 30 10 30 18 C30 22 32 26 34 28 L8 54 C6 56 6 58 8 60 L10 62 C12 64 14 64 16 62 L42 36 C44 38 48 40 52 40 C60 40 66 34 66 26 C66 22 64 18 62 16 L54 24 L46 24 L46 16 L54 8 C52 6 48 4 44 4 Z"
+        fill="url(#wrenchGrad)" stroke="#0d0d0d" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>

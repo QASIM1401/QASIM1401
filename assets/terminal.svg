@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="terminalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="100%" stop-color="#00ffe7"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="8" width="56" height="40" rx="3" fill="#0d0d0d" stroke="url(#terminalGrad)" stroke-width="2"/>
+  <rect x="4" y="8" width="56" height="6" fill="url(#terminalGrad)" opacity="0.3"/>
+  <circle cx="9" cy="11" r="1" fill="#ff007f"/>
+  <circle cx="13" cy="11" r="1" fill="#ffd700"/>
+  <circle cx="17" cy="11" r="1" fill="#00ff41"/>
+  <text x="10" y="30" fill="url(#terminalGrad)" font-family="monospace" font-size="8">$ qasim@root</text>
+  <text x="10" y="40" fill="url(#terminalGrad)" font-family="monospace" font-size="8">> access_granted</text>
+  <rect x="28" y="48" width="8" height="8" fill="url(#terminalGrad)"/>
+  <rect x="44" y="46" width="20" height="4" rx="2" fill="url(#terminalGrad)" opacity="0.6"/>
+</svg>

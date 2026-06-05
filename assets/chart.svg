@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="chartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffe7"/>
+      <stop offset="100%" stop-color="#ff007f"/>
+    </linearGradient>
+  </defs>
+  <line x1="8" y1="56" x2="56" y2="56" stroke="url(#chartGrad)" stroke-width="2"/>
+  <line x1="8" y1="8" x2="8" y2="56" stroke="url(#chartGrad)" stroke-width="2"/>
+  <rect x="14" y="36" width="6" height="20" fill="url(#chartGrad)"/>
+  <rect x="24" y="24" width="6" height="32" fill="url(#chartGrad)"/>
+  <rect x="34" y="16" width="6" height="40" fill="url(#chartGrad)"/>
+  <rect x="44" y="28" width="6" height="28" fill="url(#chartGrad)"/>
+  <path d="M14 32 L24 20 L34 12 L44 24" stroke="#ff007f" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <circle cx="14" cy="32" r="2" fill="#ff007f"/>
+  <circle cx="24" cy="20" r="2" fill="#ff007f"/>
+  <circle cx="34" cy="12" r="2" fill="#ff007f"/>
+  <circle cx="44" cy="24" r="2" fill="#ff007f"/>
+</svg>

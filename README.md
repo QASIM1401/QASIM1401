@@ -132,14 +132,6 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/music.svg" width="28" align="center" /> `> WHAT I'M LISTENING TO`
-
-<p align="center">
-  <img src="https://spotify-github-profile.kittinan.com/api/spotify?theme=tokyonight" alt="Spotify Now Playing" />
-</p>
-
----
-
 ## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/eye.svg" width="28" align="center" /> `> VISITOR MATRIX`
 
 <p align="center">

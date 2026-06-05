@@ -127,7 +127,7 @@ motto: "In code we trust, in bugs we hunt."
 ## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/quote.svg" width="28" align="center" /> `> RANDOM DEV QUOTE`
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/quotes.svg" alt="Rotating Dev Quotes" width="900" />
 </p>
 
 ---

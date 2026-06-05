@@ -165,5 +165,5 @@
     <text x="258" y="38" text-anchor="end" font-family="'Courier New', monospace" font-size="6" fill="#00ff41">ONLINE</text>
   </g>
 
-  <!-- Bottom text removed -->
+  <!-- Bottom text removed - cache buster -->
 </svg>

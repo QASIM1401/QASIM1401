@@ -118,13 +118,8 @@ motto: "In code we trust, in bugs we hunt."
 
 <p align="center">
   <a href="https://github.com/QASIM1401"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffe7" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerOne-0d0d0d?style=for-the-badge&logo=hackerone&logoColor=ff007f" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bugcrowd-0d0d0d?style=for-the-badge&logo=bugcrowd&logoColor=ff6f00" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=9d00ff" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackTheBox-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=00ffe7" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=twitter&logoColor=1DA1F2" /></a>
-  <a href="mailto:qasim.sec1401@proton.me"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" /></a>
+  <a href="mailto:qasim.sec1401@proton.me"><img src="https://img.shields.io/badge/Proton_Mail-0d0d0d?style=for-the-badge&logo=protonmail&logoColor=6D4AFF" /></a>
+  <a href="https://t.me/DoYouLikePopo"><img src="https://img.shields.io/badge/Telegram-0d0d0d?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
 </p>
 
 ---

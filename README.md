@@ -90,10 +90,6 @@ motto: "In code we trust, in bugs we hunt."
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QASIM1401&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=ffffff&border_radius=10&layout=compact" width="420" />
-</p>
-
-<p align="center">
   <img src="https://ghchart.rshah.org/00ffe7/QASIM1401" alt="GitHub Contribution Graph" width="100%" />
 </p>
 

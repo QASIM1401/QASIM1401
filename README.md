@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/terminal.svg" width="28" align="center" /> `> ACCESSING MAINFRAME...`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/terminal.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> ACCESSING MAINFRAME...`
 
 ```diff
 + SYSTEM STATUS................. ONLINE
@@ -34,7 +34,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/user.svg" width="28" align="center" /> `> OPERATOR PROFILE`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/user.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> OPERATOR PROFILE`
 
 ```yaml
 name: QASIM
@@ -53,7 +53,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/wrench.svg" width="28" align="center" /> `> TECH ARSENAL`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/wrench.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> TECH ARSENAL`
 
 <p align="center">
   <img src="https://img.shields.io/badge/LANGUAGES-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /><br>
@@ -74,7 +74,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/snake.svg" width="32" align="center" /> `> CONTRIBUTION SNAKE`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/snake.svg" width="28" style="vertical-align: middle; margin-right: 10px;" /> `> CONTRIBUTION SNAKE`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
@@ -82,7 +82,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/chart.svg" width="28" align="center" /> `> INTELLIGENCE REPORT`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/chart.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> INTELLIGENCE REPORT`
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QASIM1401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=ff007f&text_color=ffffff&border_radius=10" height="170" />
@@ -95,7 +95,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/target.svg" width="28" align="center" /> `> MISSION OBJECTIVES`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/target.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> MISSION OBJECTIVES`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/check.svg" width="16" align="absmiddle" /> Reconnaissance &amp; Enumeration<br>
@@ -109,7 +109,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/satellite.svg" width="28" align="center" /> `> CONNECT WITH THE OPERATIVE`
+## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/satellite.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> CONNECT WITH THE OPERATIVE`
 
 <p align="center">
   <a href="https://github.com/QASIM1401"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffe7" /></a>
@@ -121,7 +121,7 @@ motto: "In code we trust, in bugs we hunt."
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/skull.svg" width="22" align="center" /> *"The quieter you become, the more you can hear."* - Ram Guru
+### <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/skull.svg" width="20" style="vertical-align: middle; margin-right: 8px;" /> *"The quieter you become, the more you can hear."* - Ram Guru
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:ff007f,100:9d00ff&height=200&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" />
 

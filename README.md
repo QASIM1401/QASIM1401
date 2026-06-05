@@ -20,7 +20,7 @@
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/accessing-mainframe.svg)
+## > ACCESSING MAINFRAME...
 
 ```diff
 + SYSTEM STATUS................. ONLINE
@@ -34,9 +34,7 @@
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/operator-profile.svg)
-
-
+## > OPERATOR PROFILE
 
 ```yaml
 name: QASIM
@@ -55,12 +53,10 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/tech-arsenal.svg)
-
-
+## > TECH ARSENAL
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/languages.svg" alt="Languages" /><br>
+  <img src="https://img.shields.io/badge/LANGUAGES-0d0d0d?style=for-the-badge&logo=code&logoColor=00ffe7&labelColor=0d0d0d" /><br>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" /></a>&nbsp;&nbsp;
@@ -70,7 +66,7 @@ motto: "In code we trust, in bugs we hunt."
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/os.svg" alt="Platforms & OS" /><br>
+  <img src="https://img.shields.io/badge/PLATFORMS_&_OS-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff007f&labelColor=0d0d0d" /><br>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="48" alt="Windows" /></a>
@@ -78,7 +74,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/contribution-snake.svg)
+## > CONTRIBUTION SNAKE
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
@@ -86,7 +82,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/intelligence-report.svg)
+## > INTELLIGENCE REPORT
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QASIM1401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=ff007f&text_color=ffffff&border_radius=10" height="170" />
@@ -99,7 +95,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/mission-objectives.svg)
+## > MISSION OBJECTIVES
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/check.svg" width="16" align="absmiddle" /> Reconnaissance &amp; Enumeration<br>
@@ -113,7 +109,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/connect.svg)
+## > CONNECT WITH THE OPERATIVE
 
 <p align="center">
   <a href="https://github.com/QASIM1401"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffe7" /></a>

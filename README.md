@@ -112,17 +112,17 @@ motto: "In code we trust, in bugs we hunt."
 ## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/chart.svg" width="28" align="center" /> `> INTELLIGENCE REPORT`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QASIM1401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=ff007f&text_color=ffffff&border_radius=10" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QASIM1401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=ff007f&text_color=ffffff&border_radius=10" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=QASIM1401&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00ffe7&ring=ff007f&fire=9d00ff&currStreakLabel=00ffe7&border_radius=10" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QASIM1401&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=ffffff&border_radius=10&layout=compact" width="420" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QASIM1401&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=ffffff&border_radius=10&layout=compact" width="420" />
   <img src="https://github-profile-trophy.vercel.app/?username=QASIM1401&theme=tokyonight&no-frame=true&column=4&margin-w=4&margin-h=4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QASIM1401&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=00ffe7&line=ff007f&point=9d00ff&area=true" width="100%" />
+  <img src="https://ghchart.rshah.org/00ffe7/QASIM1401" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 ---

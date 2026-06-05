@@ -34,7 +34,7 @@
 
 ---
 
-## ![Header](https://img.shields.io/badge/%3E_OPERATOR_PROFILE-0d0d0d?style=for-the-badge&logo=user--secret&logoColor=ff007f&labelColor=0d0d0d)
+## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/operator-profile.svg)
 
 ```yaml
 name: QASIM

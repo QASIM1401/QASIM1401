@@ -1,19 +1,170 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
   <defs>
-    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <radialGradient id="bg" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#1a0a2e"/>
+      <stop offset="60%" stop-color="#0a0a0f"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00ffe7"/>
       <stop offset="50%" stop-color="#ff007f"/>
       <stop offset="100%" stop-color="#9d00ff"/>
     </linearGradient>
-    <radialGradient id="bgGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#1a1a2e"/>
-      <stop offset="100%" stop-color="#0d0d0d"/>
+    <linearGradient id="hood" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1f1f2e"/>
+      <stop offset="100%" stop-color="#050507"/>
+    </linearGradient>
+    <linearGradient id="hoodEdge" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ffe7" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#ff007f" stop-opacity="0.6"/>
+    </linearGradient>
+    <radialGradient id="eyeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="40%" stop-color="#00ffe7"/>
+      <stop offset="100%" stop-color="#003a3a" stop-opacity="0"/>
     </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#00ffe7" stroke-width="0.3" opacity="0.15"/>
+    </pattern>
   </defs>
-  <rect width="200" height="200" fill="url(#bgGrad)"/>
-  <circle cx="100" cy="100" r="90" fill="none" stroke="url(#ringGrad)" stroke-width="3"/>
-  <circle cx="100" cy="100" r="70" fill="none" stroke="url(#ringGrad)" stroke-width="1" stroke-dasharray="4 4"/>
-  <text x="100" y="95" text-anchor="middle" fill="#00ffe7" font-family="monospace" font-size="22" font-weight="bold">QASIM</text>
-  <text x="100" y="118" text-anchor="middle" fill="#ff007f" font-family="monospace" font-size="10">1401</text>
-  <text x="100" y="145" text-anchor="middle" fill="#9d00ff" font-family="monospace" font-size="8">ETHICAL HACKER</text>
+
+  <!-- Outer glow ring -->
+  <circle cx="150" cy="150" r="148" fill="none" stroke="url(#ring)" stroke-width="1" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main background -->
+  <circle cx="150" cy="150" r="145" fill="url(#bg)"/>
+  <circle cx="150" cy="150" r="145" fill="url(#grid)"/>
+
+  <!-- Inner ring -->
+  <circle cx="150" cy="150" r="140" fill="none" stroke="url(#ring)" stroke-width="2"/>
+  <circle cx="150" cy="150" r="135" fill="none" stroke="#00ffe7" stroke-width="0.5" stroke-dasharray="2 6" opacity="0.5">
+    <animateTransform attributeName="transform" type="rotate" from="0 150 150" to="360 150 150" dur="20s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Background circuit traces -->
+  <g stroke="#00ffe7" stroke-width="0.6" fill="none" opacity="0.35" filter="url(#softGlow)">
+    <path d="M 20 80 L 60 80 L 60 110 L 95 110"/>
+    <circle cx="60" cy="80" r="2" fill="#00ffe7"/>
+    <circle cx="95" cy="110" r="2" fill="#00ffe7"/>
+    <path d="M 280 100 L 240 100 L 240 130 L 210 130"/>
+    <circle cx="240" cy="100" r="2" fill="#ff007f"/>
+    <circle cx="210" cy="130" r="2" fill="#ff007f"/>
+    <path d="M 30 230 L 70 230 L 70 210 L 100 210"/>
+    <circle cx="70" cy="230" r="2" fill="#9d00ff"/>
+    <path d="M 270 220 L 230 220 L 230 200 L 200 200"/>
+    <circle cx="230" cy="220" r="2" fill="#9d00ff"/>
+  </g>
+
+  <!-- Binary/hex in background -->
+  <g font-family="'Courier New', monospace" font-size="6" fill="#00ffe7" opacity="0.25">
+    <text x="25" y="40">01001000</text>
+    <text x="220" y="50">0x1401</text>
+    <text x="30" y="270">11010110</text>
+    <text x="220" y="265">Q4S1M</text>
+  </g>
+
+  <!-- Hooded figure -->
+  <g>
+    <!-- Hood outer -->
+    <path d="M 70 160
+             Q 65 90 110 65
+             Q 150 50 190 65
+             Q 235 90 230 160
+             L 225 250
+             L 75 250 Z"
+          fill="url(#hood)" stroke="url(#hoodEdge)" stroke-width="2.5" filter="url(#glow)"/>
+
+    <!-- Hood shadow inside -->
+    <path d="M 95 160
+             Q 92 110 130 90
+             Q 150 80 170 90
+             Q 208 110 205 160
+             L 200 240
+             L 100 240 Z"
+          fill="#000000"/>
+
+    <!-- Face plate (mask) -->
+    <path d="M 110 165
+             Q 110 140 130 135
+             L 170 135
+             Q 190 140 190 165
+             L 188 200
+             Q 188 215 175 218
+             L 125 218
+             Q 112 215 112 200 Z"
+          fill="#0a0a0a" stroke="#1a1a2a" stroke-width="1"/>
+
+    <!-- Mask seam -->
+    <line x1="150" y1="135" x2="150" y2="218" stroke="#1a1a2a" stroke-width="0.8" stroke-dasharray="2 2"/>
+
+    <!-- Glowing eyes - outer glow -->
+    <ellipse cx="128" cy="172" rx="14" ry="8" fill="url(#eyeGlow)" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="172" cy="172" rx="14" ry="8" fill="url(#eyeGlow)" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- Eye iris -->
+    <ellipse cx="128" cy="172" rx="7" ry="4" fill="#00ffe7"/>
+    <ellipse cx="172" cy="172" rx="7" ry="4" fill="#00ffe7"/>
+
+    <!-- Eye pupil -->
+    <ellipse cx="128" cy="172" rx="3" ry="1.8" fill="#003a3a"/>
+    <ellipse cx="172" cy="172" rx="3" ry="1.8" fill="#003a3a"/>
+
+    <!-- Eye highlight -->
+    <circle cx="130" cy="170" r="1" fill="#ffffff"/>
+    <circle cx="174" cy="170" r="1" fill="#ffffff"/>
+
+    <!-- Mouth slit -->
+    <line x1="135" y1="200" x2="165" y2="200" stroke="#ff007f" stroke-width="1.5" stroke-linecap="round" filter="url(#glow)"/>
+
+    <!-- Hood circuit details -->
+    <g stroke="#9d00ff" stroke-width="0.8" fill="none" opacity="0.6" filter="url(#glow)">
+      <path d="M 75 170 L 85 170 L 85 195 L 100 195"/>
+      <path d="M 225 170 L 215 170 L 215 195 L 200 195"/>
+      <path d="M 80 220 L 95 220"/>
+      <path d="M 220 220 L 205 220"/>
+    </g>
+
+    <!-- Hood highlights -->
+    <path d="M 110 80 Q 130 70 150 75" stroke="#00ffe7" stroke-width="1" fill="none" opacity="0.5" filter="url(#glow)"/>
+    <path d="M 190 80 Q 170 70 150 75" stroke="#00ffe7" stroke-width="1" fill="none" opacity="0.5" filter="url(#glow)"/>
+  </g>
+
+  <!-- Corner brackets -->
+  <g stroke="url(#ring)" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M 25 25 L 25 40 M 25 25 L 40 25"/>
+    <path d="M 275 25 L 275 40 M 275 25 L 260 25"/>
+    <path d="M 25 275 L 25 260 M 25 275 L 40 275"/>
+    <path d="M 275 275 L 275 260 M 275 275 L 260 275"/>
+  </g>
+
+  <!-- Status indicator -->
+  <g>
+    <circle cx="265" cy="35" r="4" fill="#00ff41" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="258" y="38" text-anchor="end" font-family="'Courier New', monospace" font-size="6" fill="#00ff41">ONLINE</text>
+  </g>
+
+  <!-- Bottom text -->
+  <text x="150" y="287" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#00ffe7" letter-spacing="3" filter="url(#glow)">QASIM</text>
 </svg>

@@ -68,10 +68,7 @@ motto: "In code we trust, in bugs we hunt."
 <p align="center">
   <img src="https://img.shields.io/badge/PLATFORMS_&_OS-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /><br>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parrot_OS-0d0d0d?style=for-the-badge&logo=parrotsecurity&logoColor=00ffe7" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Termux-0d0d0d?style=for-the-badge&logo=termux&logoColor=00ffe7" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 

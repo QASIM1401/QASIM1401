@@ -135,7 +135,7 @@ motto: "In code we trust, in bugs we hunt."
 ## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/eye.svg" width="28" align="center" /> `> VISITOR MATRIX`
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/QASIM1401/count.svg" alt="Visitor Count" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQASIM1401&count_bg=%2300ffe7&title_bg=%230d0d0d&icon=github&icon_color=%23ff007f&title=VISITS&edge_flat=false" alt="Visitor Count" />
 </p>
 
 ---

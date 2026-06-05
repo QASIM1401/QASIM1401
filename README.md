@@ -124,14 +124,6 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/quote.svg" width="28" align="center" /> `> RANDOM DEV QUOTE`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/quotes.svg" alt="Rotating Dev Quotes" width="900" />
-</p>
-
----
-
 ## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/eye.svg" width="28" align="center" /> `> VISITOR MATRIX`
 
 <p align="center">

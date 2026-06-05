@@ -66,18 +66,6 @@ motto: "In code we trust, in bugs we hunt."
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY_TOOLS-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /><br>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=00ffe7" />
-  <img src="https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logoColor=ff007f" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=9d00ff" />
-  <img src="https://img.shields.io/badge/Hydra-0d0d0d?style=for-the-badge&logoColor=00ffe7" />
-  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d0d0d" />
-  <img src="https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff007f" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/PLATFORMS_&_OS-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /><br>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Parrot_OS-0d0d0d?style=for-the-badge&logo=parrotsecurity&logoColor=00ffe7" />

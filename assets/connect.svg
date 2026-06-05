@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 45" width="500" height="45">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#0a0a1a"/>
+    </linearGradient>
+    <linearGradient id="bd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffe7"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+    <linearGradient id="ic" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffe7"/>
+      <stop offset="100%" stop-color="#9d00ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="45" fill="url(#bg)" rx="3"/>
+  <rect width="500" height="45" fill="none" stroke="url(#bd)" stroke-width="1" rx="3"/>
+  <rect width="2" height="45" fill="#00ffe7"/>
+
+  <g transform="translate(15, 22)">
+    <path d="M 0 -10 L 4 -2 L 4 6 L -4 6 L -4 -2 Z" fill="url(#ic)" stroke="#00ffe7" stroke-width="0.4"/>
+    <rect x="-6" y="-2" width="3" height="6" fill="#9d00ff"/>
+    <rect x="3" y="-2" width="3" height="6" fill="#9d00ff"/>
+    <rect x="4" y="0" width="2" height="2" fill="#ff007f"/>
+    <line x1="0" y1="-10" x2="0" y2="-13" stroke="url(#ic)" stroke-width="0.8"/>
+    <circle cx="0" cy="-13" r="1" fill="#00ffe7">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="45" y="27" font-family="'Courier New', monospace" font-size="14" font-weight="bold" fill="#ffffff" letter-spacing="1.5">&gt; CONNECT WITH THE OPERATIVE</text>
+  <text x="45" y="38" font-family="'Courier New', monospace" font-size="7" fill="#666666" letter-spacing="2">// ENCRYPTED CHANNELS</text>
+</svg>

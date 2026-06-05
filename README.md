@@ -124,14 +124,6 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/eye.svg" width="28" align="center" /> `> VISITOR MATRIX`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/stats.svg" alt="Live Profile Stats" width="750" />
-</p>
-
----
-
 <div align="center">
 
 ### <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/skull.svg" width="22" align="center" /> *"The quieter you become, the more you can hear."* - Ram Guru

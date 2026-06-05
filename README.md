@@ -20,7 +20,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/terminal.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> ACCESSING MAINFRAME...`
+## ![Header](https://img.shields.io/badge/%3E_ACCESSING_MAINFRAME...-0d0d0d?style=for-the-badge&logo=gnometerminal&logoColor=00ff41&labelColor=0d0d0d)
 
 ```diff
 + SYSTEM STATUS................. ONLINE
@@ -34,7 +34,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/user.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> OPERATOR PROFILE`
+## ![Header](https://img.shields.io/badge/%3E_OPERATOR_PROFILE-0d0d0d?style=for-the-badge&logo=user--secret&logoColor=ff007f&labelColor=0d0d0d)
 
 ```yaml
 name: QASIM
@@ -53,7 +53,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/wrench.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> TECH ARSENAL`
+## ![Header](https://img.shields.io/badge/%3E_TECH_ARSENAL-0d0d0d?style=for-the-badge&logo=toolbox&logoColor=00ffe7&labelColor=0d0d0d)
 
 <p align="center">
   <img src="https://img.shields.io/badge/LANGUAGES-0d0d0d?style=for-the-badge&labelColor=0d0d0d" /><br>
@@ -74,7 +74,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/snake.svg" width="28" style="vertical-align: middle; margin-right: 10px;" /> `> CONTRIBUTION SNAKE`
+## ![Header](https://img.shields.io/badge/%3E_CONTRIBUTION_SNAKE-0d0d0d?style=for-the-badge&logo=github&logoColor=9d00ff&labelColor=0d0d0d)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
@@ -82,7 +82,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/chart.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> INTELLIGENCE REPORT`
+## ![Header](https://img.shields.io/badge/%3E_INTELLIGENCE_REPORT-0d0d0d?style=for-the-badge&logo=chart-line&logoColor=00ffe7&labelColor=0d0d0d)
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QASIM1401&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=ff007f&text_color=ffffff&border_radius=10" height="170" />
@@ -95,7 +95,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/target.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> MISSION OBJECTIVES`
+## ![Header](https://img.shields.io/badge/%3E_MISSION_OBJECTIVES-0d0d0d?style=for-the-badge&logo=target&logoColor=ff007f&labelColor=0d0d0d)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/check.svg" width="16" align="absmiddle" /> Reconnaissance &amp; Enumeration<br>
@@ -109,7 +109,7 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/satellite.svg" width="24" style="vertical-align: middle; margin-right: 10px;" /> `> CONNECT WITH THE OPERATIVE`
+## ![Header](https://img.shields.io/badge/%3E_CONNECT_WITH_THE_OPERATIVE-0d0d0d?style=for-the-badge&logo=satellite&logoColor=00ffe7&labelColor=0d0d0d)
 
 <p align="center">
   <a href="https://github.com/QASIM1401"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00ffe7" /></a>
@@ -121,7 +121,7 @@ motto: "In code we trust, in bugs we hunt."
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/skull.svg" width="20" style="vertical-align: middle; margin-right: 8px;" /> *"The quieter you become, the more you can hear."* - Ram Guru
+### *"The quieter you become, the more you can hear."* - Ram Guru
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffe7,50:ff007f,100:9d00ff&height=200&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=ffffff&fontAlignY=50" width="100%" />
 

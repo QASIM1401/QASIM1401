@@ -53,10 +53,10 @@ motto: "In code we trust, in bugs we hunt."
 
 ---
 
-## ![Header](https://img.shields.io/badge/%3E_TECH_ARSENAL-0d0d0d?style=for-the-badge&logo=toolbox&logoColor=00ffe7&labelColor=0d0d0d)
+## ![Header](https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/tech-arsenal.svg)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGES-0d0d0d?style=for-the-badge&logo=code&logoColor=00ffe7&labelColor=0d0d0d" /><br>
+  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/languages.svg" alt="Languages" /><br>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" alt="Bash" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" /></a>&nbsp;&nbsp;
@@ -66,7 +66,7 @@ motto: "In code we trust, in bugs we hunt."
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLATFORMS_&_OS-0d0d0d?style=for-the-badge&logo=linux&logoColor=ff007f&labelColor=0d0d0d" /><br>
+  <img src="https://raw.githubusercontent.com/QASIM1401/QASIM1401/main/assets/os.svg" alt="Platforms & OS" /><br>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu" /></a>&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="48" alt="Windows" /></a>
